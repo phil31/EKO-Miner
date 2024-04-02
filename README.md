@@ -5,5 +5,6 @@
 	WIFI and ETHERNET
 	TFT RGB LCD 172x320
 	external standard ATX power supply
+ 	trying to cool with watercooling for silent !
 
 	based on https://github.com/skot/bitaxe job
