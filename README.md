@@ -1,18 +1,22 @@
 # EKO-Miner
-	EKO-Miner repo
+![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/hashcard1.jpg)
+![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/hashcard2.jpg)
 
-	Rackable miner boards based on BM1366 ASIC and drived by an ESP32
-	WIFI and ETHERNET
-	TFT RGB LCD 172x320
-	external standard ATX power supply
- 	trying to cool with watercooling for silent !
-  	200 x 200 x 140 mm
+## Version 1
 
-  First daughter board : 16 x BM1366
+Supports up to 3 ASIC Hashcard with 24 ASIC chips BM1366 for a total of up to 12 TH/s at 500 Watts. An ATX PSU at 800 watts will do the job.
 
-	based on https://github.com/skot/bitaxe job
+- Rackable miner boards based on BM1366 ASIC and driven by an ESP32
+- WIFI and ETHERNET connectivity
+- TFT RGB LCD 172x320 display
+- External standard ATX power supply
+- Watercooling for quiet operation
 
-Rackable mean several ASICs boardss !.. in this first version, up tp 3 ASICs boards. Total up to 24TH:s for 500Watts.
-ATX PSU 800 watts will do the job.
+#### The EKO-Miner is a stackable and rackable ASIC Bitcoin miner that utilizes hashcards. The hashcards are capable of mining Bitcoin by themselves or multiple. The concept of hashcards is highly scalable and offers a clean and streamlined approach to Bitcoin mining.
 
-Rackable mean several ASICs boardss !..  if others ASICs are reverse ingenering, we can design others boards for others crypto currencies !
+## Specifications
+
+- Hashcard dimensions: 200 x 200 x 140 mm
+- ASIC chips BM1366 per 1 Hashcard: 8
+
+#### Inspired by the [Bitaxe](https://github.com/skot/bitaxe)
