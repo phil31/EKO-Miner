@@ -1,6 +1,8 @@
 # EKO-Miner
 ![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/hashcard1.jpg)
 ![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/hashcard2.jpg)
+![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/3D EKO_Miner V1 with heatsink.jpg)
+![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/3D EKO_Miner V1 without heatsink.jpg)
 
 ## Version 1
 
@@ -17,6 +19,6 @@ Supports up to 3 ASIC Hashcard with 24 ASIC chips BM1366 for a total of up to 12
 ## Specifications
 
 - Hashcard dimensions: 200 x 200 x 140 mm
-- ASIC chips BM1366 per 1 Hashcard: 8
+- ASIC chips BM1366 per 1 Hashcard: 16
 
 #### Inspired by the [Bitaxe](https://github.com/skot/bitaxe)
