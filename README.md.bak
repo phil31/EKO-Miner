@@ -1,8 +1,8 @@
 # EKO-Miner
 ![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/hashcard1.jpg)
 ![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/hashcard2.jpg)
-![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/3D EKO_Miner_Wheatsink_V1.jpg)
-![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/3D EKO_Miner_WOheatsink_V1.jpg)
+![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/3D_EKO_Miner_Wheatsink_V1.jpg)
+![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/3D_EKO_Miner_WOheatsink_V1.jpg)
 
 ## Version 1
 

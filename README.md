@@ -6,7 +6,7 @@
 
 ## Version 1
 
-Supports up to 3 ASIC Hashcard with 24 ASIC chips BM1366 for a total of up to 12 TH/s at 500 Watts. An ATX PSU at 800 watts will do the job.
+Supports up to 3 ASIC Hashcard with 16 ASIC chips BM1366 for a total of up to 48 ASIC 12 TH/s at 500 Watts. An ATX PSU at 800 watts will do the job.
 
 - Rackable miner boards based on BM1366 ASIC and driven by an ESP32
 - WIFI and ETHERNET connectivity
