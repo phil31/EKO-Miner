@@ -22,12 +22,12 @@ AsicBoards :
 	- 16 x BM1368 : x TH/s
 	- 10 x BM1370 : 10 TH/s
 	
+enclosure box dimensions: 200 x 200 x 140 mm
 	
 #### The EKO-Miner is a stackable and rackable ASIC Bitcoin miner that utilizes hashcards. The hashcards are capable of mining Bitcoin by themselves or multiple. The concept of hashcards is highly scalable and offers a clean and streamlined approach to Bitcoin mining.
 
-## Specifications
-
-- box dimensions: 200 x 200 x 140 mm
 
 
-#### Inspired by the [Bitaxe](https://github.com/skot/bitaxe)
+
+## NerdEKO-GammaFork-NoATX Miner
+fork of the NerdOCTAXE-Gamma design (https://github.com/Patsch91/NerdOCTAXE-Gamma), with 12 x BM1370 (12TH/s SHA256)
