@@ -12,6 +12,5 @@ AsicBoards :
 - 16 x BM1366 : 8 TH/s - Efficiency 25J/TH
 - 16 x BM1368 : 9.5 TH/s - Efficiency 18J/TH
 - 10 x BM1370 : 10 TH/s - Efficiency 15J/TH
-	
-enclosure box dimensions: 200 x 200 x 140 mm
+
 
