@@ -1,10 +1,8 @@
-# EKO-Miner
-![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/hashcard1.jpg)
-![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/hashcard2.jpg)
-![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/3D_EKO_Miner_Wheatsink_V1.jpg)
-![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/3D_EKO_Miner_WOheatsink_V1.jpg)
 
 ## BOX Miner
+
+#### The EKO-Miner is a stackable and rackable ASIC Bitcoin miner that utilizes hashcards. The hashcards are capable of mining Bitcoin by themselves or multiple. The concept of hashcards is highly scalable and offers a clean and streamlined approach to Bitcoin mining.
+
 
 Miner Box Supports up to 3 ASIC Hashcards. An ATX PSU is required.
 
@@ -23,11 +21,19 @@ AsicBoards :
 - 10 x BM1370 : 10 TH/s - Efficiency 15J/TH
 	
 enclosure box dimensions: 200 x 200 x 140 mm
-	
-#### The EKO-Miner is a stackable and rackable ASIC Bitcoin miner that utilizes hashcards. The hashcards are capable of mining Bitcoin by themselves or multiple. The concept of hashcards is highly scalable and offers a clean and streamlined approach to Bitcoin mining.
 
+![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/hashcard1.jpg)
+![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/hashcard2.jpg)
+![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/3D_EKO_Miner_Wheatsink_V1.jpg)
+![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/3D_EKO_Miner_WOheatsink_V1.jpg)
+	
 
 
 
 ## NerdEKO-GammaFork-NoATX Miner
 fork of the NerdOCTAXE-Gamma design (https://github.com/Patsch91/NerdOCTAXE-Gamma), with 12 x BM1370 (12TH/s SHA256)
+
+![hashcard](https://github.com/phil31/EKO-Miner/blob/main/images/3D_NerdEKO-Gamma_V1.jpg)
+	
+
+
