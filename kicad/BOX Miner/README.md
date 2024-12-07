@@ -15,6 +15,8 @@ AsicBoards :
 
 
 
+![hashcard](https://github.com/phil31/EKO-Miner/blob/main/kicad/images/Assembled_board_10xBM1370.jpg)
+![hashcard](https://github.com/phil31/EKO-Miner/blob/main/kicad/images/Assembled_board_10xBM1370_Without_Heatsink.jpg)
 ![hashcard](https://github.com/phil31/EKO-Miner/blob/main/kicad/images/PowerBoard_TPS53667_TOP.jpg)
 ![hashcard](https://github.com/phil31/EKO-Miner/blob/main/kicad/images/PowerBoard_TPS53667_BOT.jpg)
 ![hashcard](https://github.com/phil31/EKO-Miner/blob/main/kicad/images/AsicBoard_10xBM1370_TOP.jpg)
